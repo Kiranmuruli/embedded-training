@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664352001 source:c:\users\kiran\desktop\embedded codings\sum and avg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

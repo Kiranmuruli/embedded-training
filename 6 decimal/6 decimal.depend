@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664289001 source:c:\users\kiran\desktop\embedded codings\6 decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+
